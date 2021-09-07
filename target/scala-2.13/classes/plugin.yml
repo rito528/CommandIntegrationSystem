@@ -1,0 +1,40 @@
+name: CommandIntegrationSystem
+version: 1.0.0
+main: com.gmail.rotoyutoriapp.CommandIntegrationSystem
+api-version: 1.17
+author: rito528 (528.rito@gmail.com)
+
+commands:
+  cis:
+    usage: /asb <args>
+
+permissions:
+  cis.*:
+    default: op
+    children:
+      cis.create: true
+      cis.delete: true
+      cis.addline: true
+      cis.cat: true
+      cis.deleteline: true
+      cis.list: true
+      cis.start: true
+      cis.help: true
+  cis.create:
+    default: op
+  cis.delete:
+    default: op
+  cis.addline:
+    default: op
+  cis.cat:
+    default: op
+  cis.deleteline:
+    default: op
+  cis.list:
+    default: op
+  cis.start:
+    default: op
+  cis.help:
+    default: op
+
+
