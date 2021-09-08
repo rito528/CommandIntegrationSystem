@@ -4,9 +4,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
 [0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
 [0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to a file (Run the task at debug level to see details)[0m
-[0m[[0m[0mdebug[0m] [0m[0mSHA-1: f0fa177e7cb3d969c657976320d7f0ed0d5e7f7d[0m
 [0m[[0m[33mwarn[0m] [0m[0mIgnored unknown package option FixedTimestamp(Some(1262304000000))[0m
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/rito/Desktop/Develop/CommandIntegrationSystem/target/scala-2.13/CommandIntegrationSystem-1.0.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/rito/Desktop/Develop/CommandIntegrationSystem/target/scala-2.13/CommandIntegrationSystem-1.0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LICENSE_scala-library-2.13.6[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/rito/Desktop/Develop/CommandIntegrationSystem/target/streams/_global/assemblyOption/_global/streams/assembly/baf857f78d0e34dce02c22f66651db04f34cf09d_ed7a2f528c7389ea65746c22a01031613d98ab3d_da39a3ee5e6b4b0d3255bfef95601890afd80709/LICENSE_scala-library-2.13.6[0m

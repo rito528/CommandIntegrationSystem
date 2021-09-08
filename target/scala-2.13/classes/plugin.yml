@@ -1,7 +1,7 @@
 name: CommandIntegrationSystem
-version: 1.0.0
+version: 1.0.1
 main: com.gmail.rotoyutoriapp.CommandIntegrationSystem
-api-version: 1.17
+api-version: 1.15
 author: rito528 (528.rito@gmail.com)
 
 commands:
