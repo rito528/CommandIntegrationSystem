@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(assembly, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: assembly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to a file (Run the task at debug level to see details)[0m
+[0m[[0m[33mwarn[0m] [0m[0mIgnored unknown package option FixedTimestamp(Some(1262304000000))[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed 2021/09/08 15:47:13[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

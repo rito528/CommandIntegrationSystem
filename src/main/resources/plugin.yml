@@ -6,7 +6,6 @@ author: rito528 (528.rito@gmail.com)
 
 commands:
   cis:
-    usage: /asb <args>
 
 permissions:
   cis.*:

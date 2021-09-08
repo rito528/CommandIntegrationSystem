@@ -2,37 +2,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
 [0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 4 products, 2 sources, 2 libraries[0m
 [0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/com/gmail/rotoyutoriapp/CommandIntegrationSystem.scala, ${BASE}/src/main/scala/com/gmail/rotoyutoriapp/File.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/com/gmail/rotoyutoriapp/CommandIntegrationSystem.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
-[0m[[0m[0mdebug[0m] [0m[0m[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/com/gmail/rotoyutoriapp/CommandIntegrationSystem.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.gmail.rotoyutoriapp.CommandIntegrationSystem)[0m
-[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.gmail.rotoyutoriapp.CommandIntegrationSystem)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/com/gmail/rotoyutoriapp/CommandIntegrationSystem.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.gmail.rotoyutoriapp.CommandIntegrationSystem[0m
-[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/rito/Desktop/Develop/CommandIntegrationSystem/target/scala-2.13/classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.5.7:compile for Scala 2.13.6[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 27661600 for Scala compiler version 2.13.6[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/home/rito/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/home/rito/Desktop/Develop/CommandIntegrationSystem/target/scala-2.13/classes:/home/rito/.m2/repository/org/spigotmc/spigot-api/1.17.1-R0.1-SNAPSHOT/spigot-api-1.17.1-R0.1-SNAPSHOT.jar:/home/rito/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/rito/.m2/repository/com/google/guava/guava/21.0/guava-21.0.jar:/home/rito/.m2/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/home/rito/.m2/repository/net/md-5/bungeecord-chat/1.16-R0.4/bungeecord-chat-1.16-R0.4.jar:/home/rito/.m2/repository/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
-[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.579322602 s[0m
-[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
